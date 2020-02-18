@@ -1,0 +1,11 @@
+# basic options
+title: twitchFIRE_devlog
+author: Red Bullion
+email: r3d[AT]redbullion.com
+description: activity log
+twitter_username: tbd
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
